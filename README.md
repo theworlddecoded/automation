@@ -1,2 +1,1 @@
-# automation
-automation
+https://github.com/theworlddecoded/automation/wiki
